@@ -1,2 +1,7 @@
-"# final-project-for-interactive-graphics-course-car-travel" 
-"# final-project-for-interactive-graphics-course-car-travel" 
+Project Structure:
+index (.css, .html): initial menu
+controls  (.css, .html): controls page
+game (.js, .css, .html): whole game 
+record (.css, .html): record page 
+
+You can also find code description in "Report.pdf"
